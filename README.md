@@ -4,6 +4,8 @@
 
 A desktop application that captures your screen, detects chess board positions using computer vision, and provides real-time analysis using the Stockfish engine. Works with any chess website or application.
 
+![Demo](demo.png)
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-5C3EE8?logo=opencv&logoColor=white)
 ![Stockfish](https://img.shields.io/badge/Stockfish-16+-green)
